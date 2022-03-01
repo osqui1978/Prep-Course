@@ -2,13 +2,13 @@
 
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString = null;
-
+nuevaString = 'Hola';
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
-
+nuevoNum = 5;
 // Crea una variable booleana:
 const nuevoBool = null;
-
+nuevoBool = 1;
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
 
