@@ -28,9 +28,10 @@ nuevoModulo = 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  
+  str = 'Oscar';
+  return str;
 }
-
+console.log (str);
 function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
