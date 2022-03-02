@@ -28,7 +28,7 @@ nuevoModulo = 1;
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
-  str = 'Oscar';
+  str =  ('Oscar');
   return str;
 }
 console.log (str);
