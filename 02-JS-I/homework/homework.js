@@ -148,20 +148,22 @@ function elevarAlCubo(num) {
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
- numero = num ** exponent;
- return numero; 
+ numeroelevado = num ** exponent;
+ return numeroelevado; 
 }
 
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-  
+  numeroredondeado = Math.round(num);
+ return numeroredondeado; 
 }
 
 function redondearHaciaArriba(num) {
   // Redondea "num" hacia arriba (al próximo entero) y devuélvelo
   // Tu código:
-  
+ redondeadoarriba = Math.ceil(num);
+ return redondeadoarriba; 
 }
 
 function numeroRandom() {
